@@ -17,9 +17,10 @@
   <li>Mostrar Informações da Universidade</li>
 </ul>
 
-<h2>⚙️ Detalhes Tecnicos</h2>
+<h2>⚙️ Detalhes Técnicos</h2>
 <ul>
   <li>Desenvolvido utilizando Table/tr/td</li>
   <li>CSS inline no HTML</li>
   <li>Navegação entre páginas utilizando links</li>
+  <li>colspan utilizado</li>
 </ul>
