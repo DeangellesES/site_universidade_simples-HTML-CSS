@@ -1,7 +1,7 @@
 <h1>Projeto: Site de uma Universidade</h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Este é um projeto simples de uma Universidade fictícia. Desenvolvido durante um curso de HTML e CSS, para estudo e prática.</p>
+<p>Este é um projeto frontend simples de uma Universidade fictícia. Desenvolvido durante um curso de HTML e CSS, para estudo e prática.</p>
 
 <h3>💻<a href="https://deangelleses.github.io/site_universidade_simples-HTML-CSS/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
